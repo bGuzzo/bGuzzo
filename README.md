@@ -5,8 +5,4 @@
 - 🌱 I’m currently learning Spring, Flutter, Python, ML
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: [Send me an email](mailto:brunoguzzo18@.com)
-
-<!---
-bGuzzo/bGuzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :briefcase: [LinkedIn profile](https://www.linkedin.com/in/bruno-guzzo-a24b17218/)
