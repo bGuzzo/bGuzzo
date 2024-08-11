@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bGuzzo
-- :round_pushpin: [Cosenza, Italy](https://www.google.it/maps/place/87100+Cosenza+CS/@39.304832,16.2347991,14z/data=!3m1!4b1!4m5!3m4!1s0x133f974acd5e5e29:0x5619c8633cc426fa!8m2!3d39.2982629!4d16.2537357)
-- :school: I'm studying computer engineering at [UNICAL](https://www.unical.it/)
-- 👀 I’m interested in full stack web development, data analysis, ML and more.
-- 🌱 I’m currently learning Spring, Flutter, Python, ML
+- 🏫 I'm studying AI & ML engineering at [UNICAL](https://www.unical.it/)
+- 👨‍💼 Cloud Consultant @ Reply, Turin, IT
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: [Send me an email](mailto:brunoguzzo18@.com)
-- :briefcase: [LinkedIn profile](https://www.linkedin.com/in/bruno-guzzo-a24b17218/)
+- 🔗 [LinkedIn profile](https://www.linkedin.com/in/bruno-guzzo-a24b17218/)
