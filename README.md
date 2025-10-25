@@ -25,4 +25,4 @@ My academic and personal projects demonstrate my hands-on experience in Deep Lea
 
 * **Email:** [brunoguzzo18@gmail.com](mailto:brunoguzzo18@gmail.com)
 * **GitHub:** [bGuzzo](https://github.com/bGuzzo)
-* **My Resumee:** [bruno-guzzo-cv.pdf](bruno-guzzo-cv.pdf)
+* **My Resumee:** [Bruno Guzzo CV](https://github.com/bGuzzo/latex-cv/blob/main/bruno-guzzo-cv.pdf)
