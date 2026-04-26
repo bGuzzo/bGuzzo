@@ -10,8 +10,8 @@ I use this profile to share personal projects and ideas; feel free to reach out 
 ## 🚀 Projects
 
 ### 🛠️ Personal Projects 
-1. **[Fin-FFB](https://github.com/bGuzzo/Fin-FFB)**: A finance-specialized BERT-like embedding model designed to embed large documents on consumer-grade hardware. It leverages recent NLP advancements to implement a **fat and shallow** architecture, bypassing the context size limitations of common models like **[Mini-LM](https://www.sbert.net/)**. Status: **In Progress**
-2. **[Fin-PT](https://github.com/bGuzzo/Fin-PT)**: A financial pre-trained transformer model designed to apply GPT architectures to predict the next OHLC data point for a **given ticker history**. Status: **Coming Soon**
+1. **[In Progress]** - **[Fin-FFB](https://github.com/bGuzzo/Fin-FFB)**: A finance-specialized BERT-like embedding model designed to embed large documents on consumer-grade hardware. It leverages recent NLP advancements to implement a **fat and shallow** architecture, bypassing the context size limitations of common models like **[Mini-LM](https://www.sbert.net/)**.
+2. **[Coming Soon]** - **[Fin-PT](https://github.com/bGuzzo/Fin-PT)**: A financial pre-trained transformer model designed to apply GPT architectures to predict the next OHLC data point for a **given ticker history**.
 
 ### 🎓 Academic Projects - [UNICAL/DIMES](https://dimes.unical.it/) AI/ML Engineering MSc
 
